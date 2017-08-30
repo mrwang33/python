@@ -1,0 +1,1 @@
+python中的list与java中的arraylist类似作用
