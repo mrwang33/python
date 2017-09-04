@@ -1,3 +1,5 @@
 python中的list与java中的arraylist类似作用
 
 tuple 与list类似 但是tuple的值一旦确定下来就不能更改了 
+
+今天摸了
